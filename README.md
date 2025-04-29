@@ -26,7 +26,6 @@ This Power BI dashboard presents key insights into **TradeDepot’s sales perfor
 - **Convenience Store**: 2.91K orders (32.69%).
 - **Supermarket**: 2.93K orders (32.91%).
 
----
 
 ## 🛒 Gross Revenue by Sales Channel
 
@@ -37,21 +36,18 @@ This Power BI dashboard presents key insights into **TradeDepot’s sales perfor
 
 **Insight**: Mobile App drives the majority of revenue, despite supermarkets having the highest sales volume.
 
----
 
 ## 📦 Orders by Sales Channel
 
 - **Mobile App** leads with the highest number of orders.
 - **Telesales** and **Field Sales** follow with fewer transactions.
 
----
 
 ## 🕐 Busiest Time of Day
 
 - Peak order activity occurs between **9 AM and 12 PM**.
 - Secondary peak appears **after 3 PM**.
 
----
 
 ## 🧾 Most Purchased Product Categories
 
@@ -61,7 +57,6 @@ This Power BI dashboard presents key insights into **TradeDepot’s sales perfor
   - **Home Care**
   - **Drinks**
 
----
 
 ## 💰 Key Revenue Drivers
 
@@ -71,7 +66,6 @@ This Power BI dashboard presents key insights into **TradeDepot’s sales perfor
   - **Yoghurt**
   - **Infant Care**
 
----
 
 ## 👥 Sales Agent Performance
 
@@ -85,8 +79,6 @@ This Power BI dashboard presents key insights into **TradeDepot’s sales perfor
 
 > Total Gross Revenue from top agents: **$144,122,455.45**
 
----
-
 ## 📌 Notes
 
 - Filters available in the dashboard include:
@@ -95,7 +87,6 @@ This Power BI dashboard presents key insights into **TradeDepot’s sales perfor
 
 🔗 **[View the full interactive dashboard here](https://app.powerbi.com/view?r=eyJrIjoiZmE2YmFiNzYtOWZjMS00MGE0LThhODQtNDM4Mzc4NDBhNmI5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)**
 
----
 
 
 
