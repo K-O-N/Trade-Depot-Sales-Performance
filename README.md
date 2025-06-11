@@ -3,12 +3,19 @@ Sales Performance Report for Trade Depot using Power BI
 
 [![Dashboard Preview](tradedepot.jpeg)](https://app.powerbi.com/view?r=eyJrIjoiZmE2YmFiNzYtOWZjMS00MGE0LThhODQtNDM4Mzc4NDBhNmI5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-# 📊 TradeDepot Sales Performance Dashboard
+# TradeDepot Sales Performance Dashboard
 
 This Power BI dashboard presents key insights into **TradeDepot’s sales performance**, visualizing order volume, fulfillment efficiency, sales channels, and agent performance based on data from three outlet types.
 
 ![Dashboard Preview](images/tradedepot-dashboard.png)
 
+## Analysis Steps
+- Load data into Power BI
+- Model Data
+- Clean data using Power Query
+- Transform data creating measures and new calculated fields
+- Dashboarding
+  
 ## Summary KPIs
 
 | Metric               | Value     |
