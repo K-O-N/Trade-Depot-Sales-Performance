@@ -9,7 +9,7 @@ This Power BI dashboard presents key insights into **TradeDepot’s sales perfor
 
 ![Dashboard Preview](images/tradedepot-dashboard.png)
 
-## 🚀 Summary KPIs
+## Summary KPIs
 
 | Metric               | Value     |
 |----------------------|-----------|
@@ -20,7 +20,7 @@ This Power BI dashboard presents key insights into **TradeDepot’s sales perfor
 
 ---
 
-## 🛍️ Outlet Types Breakdown
+## Outlet Types Breakdown
 
 - **Kiosk** has the highest order count: **3.06K orders (34.44%)**.
 - **Convenience Store**: 2.91K orders (32.69%).
@@ -37,19 +37,19 @@ This Power BI dashboard presents key insights into **TradeDepot’s sales perfor
 **Insight**: Mobile App drives the majority of revenue, despite supermarkets having the highest sales volume.
 
 
-## 📦 Orders by Sales Channel
+## Orders by Sales Channel
 
 - **Mobile App** leads with the highest number of orders.
 - **Telesales** and **Field Sales** follow with fewer transactions.
 
 
-## 🕐 Busiest Time of Day
+## Busiest Time of Day
 
 - Peak order activity occurs between **9 AM and 12 PM**.
 - Secondary peak appears **after 3 PM**.
 
 
-## 🧾 Most Purchased Product Categories
+## Most Purchased Product Categories
 
 - **Foods** is the most purchased category (by quantity).
 - Other popular categories:
@@ -58,7 +58,7 @@ This Power BI dashboard presents key insights into **TradeDepot’s sales perfor
   - **Drinks**
 
 
-## 💰 Key Revenue Drivers
+## Key Revenue Drivers
 
 - **Milk** is the highest revenue driver, contributing **37%** of gross revenue.
 - Other strong contributors:
@@ -67,7 +67,7 @@ This Power BI dashboard presents key insights into **TradeDepot’s sales perfor
   - **Infant Care**
 
 
-## 👥 Sales Agent Performance
+## Sales Agent Performance
 
 | Agent Name                         | Gross Revenue   | Orders | Fulfillment Time (min) |
 |-----------------------------------|------------------|--------|-------------------------|
@@ -79,7 +79,7 @@ This Power BI dashboard presents key insights into **TradeDepot’s sales perfor
 
 > Total Gross Revenue from top agents: **$144,122,455.45**
 
-## 📌 Notes
+## Notes
 
 - Filters available in the dashboard include:
   - `State`, `Country` (NG or ZA), and `Shipping Status` (cancelled/delivered).
